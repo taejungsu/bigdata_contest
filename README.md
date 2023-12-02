@@ -1,4 +1,4 @@
-# bigData_contest
+# bigdata_contest
 과학기술정보통신부에서 개최하는 감염병 대응 빅데이터 활용 아이디어 공모전에서 활동한 내용을 기록한 저장소입니다.
 
 ## Project 개요
